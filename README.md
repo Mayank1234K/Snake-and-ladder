@@ -1,2 +1,3 @@
-# crispy-tribble
-CSE Student at PES university EC campus Bengaluru
+# snake-and-ladder-game
+making snake and ladder game using HTML, CSS and Javascript
+This game gives the real joy.
