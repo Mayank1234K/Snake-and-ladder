@@ -1,4 +1,4 @@
-# Netflix_Home_Page_Using_HTML_And_CSS
+# Snake and Ladder game using html,css, js.
 
 This repository contains the code for building a snake and ladder game using html , css ,javascrip. It's basically a timepass game which will definitely make us stressfree.
 
